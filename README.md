@@ -9,6 +9,7 @@ Scope is stated as below,
 
 ### Bonus Points
 Bonus points is stated as below,
+- Use JUnit or similar for testing.
 - Implement pagination for the list of blog posts endpoint.<v>
 - Implement sorting for the list of blog posts endpoint.<v>
 - Add authentication and authorization to the API.<v>
